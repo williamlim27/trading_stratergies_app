@@ -1,0 +1,1 @@
+# trading_stratergies_app
